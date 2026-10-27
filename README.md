@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**ashukumar9341/ashukumar9341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ashu Kumar 👋
 
-Here are some ideas to get you started:
+🎓 Engineering Student | Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about coding, problem-solving, and building real-world applications.
+
+### 🚀 Currently Learning
+- 🧠 Data Structures & Algorithms (DSA)
+- ⚛️ React.js
+
+
+### 🛠️ Technologies
+- **Languages:** Java 
+- **Frontend:** JavaScript, HTML, CSS
+- **Tools:** Git, GitHub, VS Code
+
+### 🎯 My Goals
+- Solve DSA problems consistently
+- Build projects to improve my development skills
+- Become proficient in Java backend development
+
+### 📌 What I'm Working On
+- Strengthening my DSA fundamentals
+- Learning full-stack web development
+- Building projects and tracking my progress
+
+---
+⭐ *Learning every day, building step by step!*
