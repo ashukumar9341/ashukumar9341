@@ -1,4 +1,3 @@
-# Hi, I'm Ashu Kumar 👋
 
 <table width = "100%">
 <tr>
@@ -18,7 +17,7 @@ Engineering student passionate about Java, problem-solving, and backend developm
 - Learning Java Backend Development
 - Building projects and improving coding skills
 </td>
-<td width="40%" valign="top">
+<td width="80%" valign="top">
 
 ### 📬 Contact Me
 
